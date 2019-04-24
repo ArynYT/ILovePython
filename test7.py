@@ -21,7 +21,11 @@ if what == 'yes' :
 elif what == 'no' :
 	asd = input("WHY? ")
 	print( Back.YELLOW )
+	ads = input("YOU MUST WRITE REASON!(please restart programm/comand) ")
 	print("I UNDERSTAND ")
+
+else:
+	abc = input("YOU MUST WRITE yes OR no !(please restart programm/comand) ")
 
 print( Back.CYAN )
 
@@ -30,6 +34,8 @@ print("COMMAND DID WITН LOVE BY ARYN! (6V CLASS!)")
 print("COMMAND ENDED!")
 
 print("THANK YOU FOR USING!")
+
+print("CREATOR: vk.com/aitsme")
 
 print("SOURCE CODE: https://github.com/ArynYT/ILovePython/blob/master/test7.py")
 
